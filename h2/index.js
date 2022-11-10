@@ -17,5 +17,5 @@ app.get("/api", (req, res) => {
 
 
 app.listen(4000, () => {
-    console.log("New Sever Started");
+    console.log("New Server Started");
 })
